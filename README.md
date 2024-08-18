@@ -52,8 +52,8 @@ The "Disease Prediction System using Machine Learning" project aims to develop a
 ### Steps to Run
 1. **Clone the repository**:
    ```bash
-   git clone ''https://github.com/Karthic-Elangovan/AIML-Project-Series-Phase-2''
-   cd Disease-Prediction-System
+   git clone ''git clone https://github.com/Karthic-Elangovan/AIML-Project-Series-Phase-2.git''
+   cd AIML-Project-Series-Phase-2
    ```
 
 2. **Install the required packages**:
